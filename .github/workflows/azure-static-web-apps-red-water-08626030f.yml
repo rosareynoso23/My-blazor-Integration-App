@@ -1,6 +1,5 @@
 // Rosa Reynoso
 // https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
-
 name: Azure Static Web Apps CI/CD
 
 on:
